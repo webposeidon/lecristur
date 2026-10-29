@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <!-- Fundal luminos de zi -->
+  <rect width="800" height="500" fill="#EBF6F6" />
+
+  <!-- Soare și nori (abur Mocănița) -->
+  <circle cx="650" cy="108" r="48" fill="#FFFFFF" opacity="0.9" />
+  <circle cx="485" cy="235" r="18" fill="#FFFFFF" opacity="0.9" />
+  <circle cx="460" cy="215" r="24" fill="#FFFFFF" opacity="0.85" />
+  <circle cx="428" cy="195" r="30" fill="#FFFFFF" opacity="0.75" />
+
+  <!-- Munții Maramureșului -->
+  <path d="M0,340 Q180,230 390,300 T800,245 L800,500 L0,500 Z" fill="#CEE8E8" />
+  <path d="M0,375 Q260,295 540,350 T800,320 L800,500 L0,500 Z" fill="#AEDADA" />
+
+  <!-- Biserica de lemn din Bârsana -->
+  <rect x="200" y="260" width="90" height="80" fill="#FFFFFF" />
+  <polygon points="180,265 245,215 310,265" fill="#1F284B" />
+  <rect x="232" y="175" width="26" height="50" fill="#F7F7F7" />
+  <polygon points="224,175 245,82 266,175" fill="#0E7A7A" />
+  <line x1="245" y1="62" x2="245" y2="82" stroke="#1F284B" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="238" y1="70" x2="252" y2="70" stroke="#1F284B" stroke-width="3.5" stroke-linecap="round" />
+
+  <!-- Mocănița pe Valea Vaserului -->
+  <rect x="465" y="295" width="75" height="42" rx="4" fill="#1F284B" />
+  <rect x="515" y="275" width="32" height="62" rx="3" fill="#0E7A7A" />
+  <rect x="478" y="265" width="14" height="30" rx="3" fill="#008489" />
+  <rect x="562" y="285" width="85" height="52" rx="4" fill="#FFFFFF" />
+  <rect x="574" y="297" width="18" height="18" rx="2" fill="#008489" />
+  <rect x="598" y="297" width="18" height="18" rx="2" fill="#008489" />
+  <rect x="622" y="297" width="14" height="18" rx="2" fill="#008489" />
+  <circle cx="485" cy="340" r="10" fill="#008489" />
+  <circle cx="525" cy="340" r="10" fill="#008489" />
+  <circle cx="582" cy="340" r="10" fill="#1F284B" />
+  <circle cx="628" cy="340" r="10" fill="#1F284B" />
+
+  <!-- Dealuri în prim-plan -->
+  <path d="M0,380 Q280,340 560,375 T800,360 L800,500 L0,500 Z" fill="#0E7A7A" />
+  <path d="M0,420 Q340,385 640,420 T800,405 L800,500 L0,500 Z" fill="#1F284B" />
+</svg>

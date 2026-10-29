@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <!-- Fundal luminos de zi -->
+  <rect width="800" height="500" fill="#EBF6F6" />
+
+  <!-- Soare și nori -->
+  <circle cx="170" cy="110" r="48" fill="#FFFFFF" opacity="0.9" />
+  <rect x="520" y="78" width="115" height="22" rx="11" fill="#FFFFFF" opacity="0.85" />
+  <rect x="550" y="64" width="65" height="20" rx="10" fill="#FFFFFF" opacity="0.85" />
+
+  <!-- Obcinele Bucovinei în straturi calme -->
+  <path d="M0,330 Q200,235 420,295 T800,255 L800,500 L0,500 Z" fill="#CFEAEA" />
+  <path d="M0,365 Q280,285 540,342 T800,315 L800,500 L0,500 Z" fill="#ADD8D8" />
+
+  <!-- Silueta Mănăstirii Voroneț -->
+  <rect x="255" y="295" width="290" height="65" rx="3" fill="#F7F7F7" />
+  <rect x="315" y="218" width="170" height="115" fill="#FFFFFF" />
+  <rect x="327" y="230" width="146" height="90" rx="2" fill="#E2F2F2" />
+  <rect x="342" y="250" width="16" height="36" rx="8" fill="#008489" />
+  <rect x="374" y="250" width="16" height="36" rx="8" fill="#008489" />
+  <rect x="406" y="250" width="16" height="36" rx="8" fill="#008489" />
+  <rect x="438" y="250" width="16" height="36" rx="8" fill="#008489" />
+
+  <!-- Turla centrală -->
+  <rect x="378" y="145" width="44" height="73" fill="#FFFFFF" />
+  <rect x="394" y="164" width="12" height="26" rx="6" fill="#1F284B" />
+  <polygon points="285,220 400,172 515,220" fill="#1F284B" />
+  <polygon points="362,147 400,95 438,147" fill="#0E7A7A" />
+  <line x1="400" y1="73" x2="400" y2="95" stroke="#0E7A7A" stroke-width="4" stroke-linecap="round" />
+  <line x1="392" y1="81" x2="408" y2="81" stroke="#0E7A7A" stroke-width="4" stroke-linecap="round" />
+
+  <!-- Dealuri verzi-teal în prim-plan -->
+  <path d="M0,385 Q240,340 480,380 T800,365 L800,500 L0,500 Z" fill="#0E7A7A" />
+  <path d="M0,420 Q360,385 620,425 T800,410 L800,500 L0,500 Z" fill="#1F284B" />
+</svg>

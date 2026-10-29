@@ -1,0 +1,18 @@
+# dependențe
+node_modules
+.pnpm-store
+
+# Next.js
+.next
+out
+next-env.d.ts
+*.tsbuildinfo
+
+# secrete și variabile de mediu
+.env*
+!.env.example
+
+# diverse
+.DS_Store
+*.log
+.vercel

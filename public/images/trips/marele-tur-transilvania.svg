@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <!-- Fundal luminos de zi -->
+  <rect width="800" height="500" fill="#E8F5F5" />
+
+  <!-- Soare și nori -->
+  <circle cx="650" cy="112" r="50" fill="#FFFFFF" opacity="0.9" />
+  <rect x="115" y="75" width="110" height="20" rx="10" fill="#FFFFFF" opacity="0.85" />
+
+  <!-- Munții Carpați în spate -->
+  <polygon points="0,355 170,190 340,308 520,165 690,292 800,218 800,500 0,500" fill="#CFEAEA" />
+  <polygon points="120,380 310,225 470,338 640,208 800,328 800,500 0,500" fill="#B0DCDC" />
+
+  <!-- Cetate fortificată transilvăneană / Castelul Corvinilor -->
+  <rect x="190" y="305" width="120" height="55" fill="#FFFFFF" />
+  <path d="M205,360 C205,322 238,322 238,360 Z" fill="#B0DCDC" />
+  <path d="M255,360 C255,322 288,322 288,360 Z" fill="#B0DCDC" />
+
+  <rect x="305" y="210" width="215" height="150" rx="3" fill="#FFFFFF" />
+  <rect x="295" y="165" width="48" height="195" fill="#F7F7F7" />
+  <polygon points="288,165 319,100 350,165" fill="#0E7A7A" />
+
+  <rect x="480" y="150" width="52" height="210" fill="#F7F7F7" />
+  <polygon points="472,150 506,82 540,150" fill="#1F284B" />
+
+  <rect x="388" y="175" width="44" height="185" fill="#FFFFFF" />
+  <polygon points="380,175 410,118 440,175" fill="#008489" />
+
+  <!-- Ferestre gotice -->
+  <rect x="312" y="195" width="14" height="28" rx="7" fill="#1F284B" />
+  <rect x="403" y="205" width="14" height="28" rx="7" fill="#1F284B" />
+  <rect x="499" y="185" width="14" height="28" rx="7" fill="#1F284B" />
+  <rect x="355" y="255" width="16" height="32" rx="8" fill="#008489" />
+  <rect x="448" y="255" width="16" height="32" rx="8" fill="#008489" />
+
+  <!-- Dealuri în prim-plan -->
+  <path d="M0,375 Q250,340 510,378 T800,362 L800,500 L0,500 Z" fill="#0E7A7A" />
+  <path d="M0,418 Q330,385 610,420 T800,405 L800,500 L0,500 Z" fill="#1F284B" />
+</svg>

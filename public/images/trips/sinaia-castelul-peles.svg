@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <!-- Fundal luminos de zi -->
+  <rect width="800" height="500" fill="#E9F5F5" />
+
+  <!-- Soare și nori -->
+  <circle cx="645" cy="108" r="48" fill="#FFFFFF" opacity="0.9" />
+  <rect x="125" y="75" width="110" height="20" rx="10" fill="#FFFFFF" opacity="0.85" />
+
+  <!-- Munții Bucegi în spate -->
+  <polygon points="0,360 155,180 330,308 510,155 685,292 800,208 800,500 0,500" fill="#CEE8E8" />
+  <polygon points="155,180 128,225 155,215 182,225" fill="#FFFFFF" />
+  <polygon points="510,155 478,208 510,195 542,208" fill="#FFFFFF" />
+
+  <!-- Silueta Castelului Peleș din Sinaia -->
+  <rect x="235" y="230" width="330" height="135" rx="4" fill="#FFFFFF" />
+  <line x1="265" y1="230" x2="265" y2="365" stroke="#CEE8E8" stroke-width="4" />
+  <line x1="535" y1="230" x2="535" y2="365" stroke="#CEE8E8" stroke-width="4" />
+  <line x1="235" y1="285" x2="565" y2="285" stroke="#CEE8E8" stroke-width="4" />
+
+  <!-- Turnul central înalt al Castelului Peleș -->
+  <rect x="368" y="118" width="64" height="247" fill="#F7F7F7" />
+  <polygon points="356,118 400,48 444,118" fill="#1F284B" />
+  <circle cx="400" cy="150" r="12" fill="#008489" />
+  <circle cx="400" cy="150" r="7" fill="#FFFFFF" />
+
+  <!-- Turnuri secundare -->
+  <rect x="275" y="165" width="48" height="200" fill="#F7F7F7" />
+  <polygon points="266,165 299,108 332,165" fill="#0E7A7A" />
+
+  <rect x="477" y="165" width="48" height="200" fill="#F7F7F7" />
+  <polygon points="468,165 501,108 534,165" fill="#008489" />
+
+  <!-- Ferestre -->
+  <rect x="292" y="195" width="14" height="26" rx="7" fill="#1F284B" />
+  <rect x="494" y="195" width="14" height="26" rx="7" fill="#1F284B" />
+  <rect x="392" y="185" width="16" height="32" rx="8" fill="#1F284B" />
+  <rect x="340" y="250" width="16" height="26" rx="3" fill="#008489" />
+  <rect x="444" y="250" width="16" height="26" rx="3" fill="#008489" />
+
+  <!-- Terasele regale și pădurea de brazi -->
+  <path d="M0,375 Q260,340 530,375 T800,360 L800,500 L0,500 Z" fill="#0E7A7A" />
+  <path d="M0,418 Q340,385 620,420 T800,405 L800,500 L0,500 Z" fill="#1F284B" />
+
+  <!-- Brazi -->
+  <polygon points="155,320 132,382 178,382" fill="#008489" />
+  <polygon points="190,335 172,385 208,385" fill="#0E7A7A" />
+  <polygon points="625,318 602,380 648,380" fill="#008489" />
+  <polygon points="660,335 642,385 678,385" fill="#0E7A7A" />
+</svg>

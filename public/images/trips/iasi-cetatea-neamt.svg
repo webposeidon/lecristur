@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <!-- Fundal luminos de zi -->
+  <rect width="800" height="500" fill="#EBF6F6" />
+
+  <!-- Nori și lumină solară -->
+  <circle cx="650" cy="108" r="48" fill="#FFFFFF" opacity="0.9" />
+  <rect x="120" y="78" width="110" height="20" rx="10" fill="#FFFFFF" opacity="0.85" />
+
+  <!-- Colinele Moldovei în spate -->
+  <path d="M0,350 Q220,270 450,328 T800,290 L800,500 L0,500 Z" fill="#CFE9E9" />
+
+  <!-- Silueta Palatului Culturii din Iași -->
+  <rect x="205" y="242" width="390" height="118" rx="3" fill="#FFFFFF" />
+  <polygon points="195,242 260,202 325,242" fill="#0E7A7A" />
+  <polygon points="475,242 540,202 605,242" fill="#0E7A7A" />
+
+  <!-- Corpul central și Turnul cu Ceas -->
+  <rect x="335" y="202" width="130" height="158" fill="#F7F7F7" />
+  <rect x="368" y="116" width="64" height="106" fill="#FFFFFF" />
+  <polygon points="360,116 400,58 440,116" fill="#1F284B" />
+  <circle cx="400" cy="152" r="14" fill="#008489" />
+  <circle cx="400" cy="152" r="9" fill="#FFFFFF" />
+
+  <!-- Ferestre ordonate -->
+  <rect x="235" y="268" width="16" height="32" rx="8" fill="#008489" />
+  <rect x="268" y="268" width="16" height="32" rx="8" fill="#008489" />
+  <rect x="301" y="268" width="16" height="32" rx="8" fill="#008489" />
+  <rect x="483" y="268" width="16" height="32" rx="8" fill="#008489" />
+  <rect x="516" y="268" width="16" height="32" rx="8" fill="#008489" />
+  <rect x="549" y="268" width="16" height="32" rx="8" fill="#008489" />
+
+  <!-- Intrarea gotică -->
+  <path d="M380,360 L380,302 C380,285 420,285 420,302 L420,360 Z" fill="#1F284B" />
+
+  <!-- Esplanadă și grădini în prim-plan -->
+  <path d="M0,375 Q260,345 520,375 T800,365 L800,500 L0,500 Z" fill="#0E7A7A" />
+  <path d="M0,418 Q340,390 620,420 T800,410 L800,500 L0,500 Z" fill="#1F284B" />
+</svg>

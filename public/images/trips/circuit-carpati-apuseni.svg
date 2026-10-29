@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <!-- Fundal luminos de zi -->
+  <rect width="800" height="500" fill="#E8F5F5" />
+
+  <!-- Soare și nori -->
+  <circle cx="660" cy="108" r="50" fill="#FFFFFF" opacity="0.9" />
+  <rect x="130" y="78" width="120" height="22" rx="11" fill="#FFFFFF" opacity="0.85" />
+  <rect x="165" y="64" width="65" height="20" rx="10" fill="#FFFFFF" opacity="0.85" />
+
+  <!-- Crestele Carpaților și Apusenilor -->
+  <polygon points="0,360 140,185 290,308 440,140 610,292 730,180 800,245 800,500 0,500" fill="#CDE8E8" />
+  <!-- Vârfuri înzăpezite -->
+  <polygon points="440,140 402,200 440,188 478,200" fill="#FFFFFF" />
+  <polygon points="140,185 112,233 140,223 168,233" fill="#FFFFFF" />
+  <polygon points="730,180 702,227 730,217 758,227" fill="#FFFFFF" />
+
+  <!-- Al doilea plan montan cu arcadă carstică (Apuseni) -->
+  <polygon points="60,395 250,212 410,338 575,202 760,375 800,350 800,500 0,500" fill="#99CCCC" />
+  <path d="M355,395 C355,308 445,308 445,395 Z" fill="#1F284B" />
+  <path d="M372,395 C372,330 428,330 428,395 Z" fill="#008489" />
+
+  <!-- Pădure de conifere și traseu montan -->
+  <path d="M0,385 Q240,345 490,385 T800,370 L800,500 L0,500 Z" fill="#0E7A7A" />
+  <path d="M0,425 Q310,390 590,425 T800,405 L800,500 L0,500 Z" fill="#1F284B" />
+
+  <!-- Potecă luminoasă -->
+  <path d="M400,385 Q435,425 365,455 T420,500" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" opacity="0.85" />
+
+  <!-- Brazi -->
+  <polygon points="175,322 152,385 198,385" fill="#008489" />
+  <polygon points="210,338 192,390 228,390" fill="#0E7A7A" />
+  <polygon points="615,318 592,382 638,382" fill="#008489" />
+  <polygon points="650,336 632,388 668,388" fill="#0E7A7A" />
+</svg>

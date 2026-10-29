@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <!-- Fundal luminos de zi (cer senin pastelat) -->
+  <rect width="800" height="500" fill="#E6F4F4" />
+
+  <!-- Soare luminos și nori albi -->
+  <circle cx="640" cy="110" r="54" fill="#FFFFFF" opacity="0.9" />
+  <circle cx="640" cy="110" r="38" fill="#B8E2E2" opacity="0.55" />
+  <rect x="110" y="85" width="115" height="22" rx="11" fill="#FFFFFF" opacity="0.85" />
+  <rect x="145" y="70" width="65" height="22" rx="11" fill="#FFFFFF" opacity="0.85" />
+  <rect x="460" y="62" width="95" height="18" rx="9" fill="#FFFFFF" opacity="0.75" />
+
+  <!-- Munții Bucegi în fundal -->
+  <polygon points="0,370 150,200 310,325 490,165 670,305 800,215 800,500 0,500" fill="#CDE8E8" />
+  <polygon points="180,390 370,215 550,345 710,200 800,280 800,500 0,500 0,360" fill="#AED8D8" />
+
+  <!-- Stânca și silueta Castelului Bran -->
+  <polygon points="255,410 342,250 458,250 540,410" fill="#82C0C0" />
+  <rect x="335" y="190" width="125" height="95" rx="3" fill="#FFFFFF" />
+  <rect x="350" y="208" width="14" height="22" rx="2" fill="#1F284B" />
+  <rect x="378" y="208" width="14" height="22" rx="2" fill="#1F284B" />
+  <rect x="422" y="208" width="14" height="22" rx="2" fill="#1F284B" />
+
+  <!-- Turnul principal și turnurile laterale -->
+  <rect x="322" y="150" width="38" height="135" fill="#F7F7F7" />
+  <polygon points="316,150 341,100 366,150" fill="#0E7A7A" />
+  <rect x="336" y="168" width="10" height="18" rx="2" fill="#1F284B" />
+
+  <rect x="442" y="135" width="42" height="150" fill="#F7F7F7" />
+  <polygon points="436,135 463,82 490,135" fill="#008489" />
+  <rect x="458" y="155" width="10" height="20" rx="2" fill="#1F284B" />
+
+  <polygon points="360,190 398,145 436,190" fill="#0E7A7A" />
+
+  <!-- Dealuri și pădure de brazi în prim-plan -->
+  <path d="M0,380 Q220,335 450,385 T800,365 L800,500 L0,500 Z" fill="#0E7A7A" />
+  <path d="M0,418 Q320,378 580,418 T800,402 L800,500 L0,500 Z" fill="#1F284B" />
+
+  <!-- Siluete brazi -->
+  <polygon points="95,340 76,390 114,390" fill="#008489" />
+  <polygon points="128,330 106,392 150,392" fill="#0E7A7A" />
+  <polygon points="665,325 643,388 687,388" fill="#008489" />
+  <polygon points="700,338 680,392 720,392" fill="#0E7A7A" />
+</svg>

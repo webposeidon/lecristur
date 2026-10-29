@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="100%" height="100%">
+  <!-- Fundal luminos alpin -->
+  <rect width="800" height="500" fill="#E8F5F5" />
+
+  <!-- Soare și nori -->
+  <circle cx="650" cy="102" r="48" fill="#FFFFFF" opacity="0.9" />
+  <rect x="125" y="72" width="110" height="20" rx="10" fill="#FFFFFF" opacity="0.85" />
+
+  <!-- Munții Făgăraș (creste înalte) -->
+  <polygon points="0,340 160,150 320,272 470,120 640,262 760,160 800,208 800,500 0,500" fill="#CCE7E7" />
+  <!-- Zăpadă pe creste -->
+  <polygon points="160,150 130,200 160,188 190,200" fill="#FFFFFF" />
+  <polygon points="470,120 434,180 470,165 506,180" fill="#FFFFFF" />
+  <polygon points="760,160 732,208 760,196 788,208" fill="#FFFFFF" />
+
+  <!-- Versanții văii glaciare Bâlea -->
+  <polygon points="0,390 240,218 420,332 610,202 800,358 800,500 0,500" fill="#0E7A7A" />
+  <path d="M0,395 Q260,345 530,390 T800,375 L800,500 L0,500 Z" fill="#1F284B" />
+
+  <!-- Lacul glaciar Bâlea -->
+  <ellipse cx="420" cy="330" rx="95" ry="22" fill="#008489" />
+  <ellipse cx="420" cy="330" rx="68" ry="13" fill="#BBE2E2" />
+
+  <!-- Drumul spectaculos în serpentine Transfăgărășan -->
+  <path
+    d="M420,348 C330,358 320,382 430,395 C540,408 530,435 390,452 C250,468 280,490 450,500"
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="14"
+    stroke-linecap="round"
+  />
+  <path
+    d="M420,348 C330,358 320,382 430,395 C540,408 530,435 390,452 C250,468 280,490 450,500"
+    fill="none"
+    stroke="#008489"
+    stroke-width="2"
+    stroke-dasharray="8 8"
+    stroke-linecap="round"
+  />
+</svg>
